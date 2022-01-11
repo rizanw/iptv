@@ -618,9 +618,8 @@ https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="Music",Music Channel
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:0 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://statik.tempo.co/data/2010/03/19/id_29101/29101_620.jpg",PRAMBORS TV
-https://indotv.tech/m3u8sd/usee-pramborstv-indonesia.m3u8
-https://tvonlineindonesia.xyz/m3u8/usee-pramborstv-People+62.m3u8
+#EXTINF:0 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://statik.tempo.co/data/2010/03/19/id_29101/29101_620.jpg",PRAMBORS Radio
 https://live-production.secureswiftcontent.com/exp=1641927146~acl=/hls-p/ingest_7004_*/*~hmac=7ddec077a7a032705a2b98003607757ff7f4bfb2f1dd01c7fbc9d692334ba1c6/hls-p/ingest_7004_480p/index.m3u8
+https://tvonlineindonesia.xyz/m3u8/usee-pramborstv-People+62.m3u8
 
 
